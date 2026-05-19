@@ -16,8 +16,8 @@ export default function Prologue() {
           <h1 className="font-display text-[5vw] leading-[0.96] tracking-tight">a fracture.</h1>
           <p className="mt-[2.8vh] text-[1.4vw] leading-relaxed text-text/80 max-w-[32vw]">A field, untouched. A policy, undone. The story of the year frontier AI met the United States military.</p>
         </div>
-        <div className="w-[38vw] h-[23vw] bg-rule/25 overflow-hidden relative border border-rule">
-          <video src={`${base}intro.mp4`} autoPlay muted playsInline className="w-full h-full object-cover" onEnded={(e) => e.currentTarget.pause()} />
+        <div className="w-[38vw] h-[23vw] bg-text/90 overflow-hidden relative border border-rule">
+          <video src={`${base}intro.mp4`} autoPlay muted playsInline preload="auto" className="w-full h-full object-cover" onEnded={(e) => e.currentTarget.pause()} />
         </div>
       </div>
       <div className="absolute bottom-[5vh] left-[6vw] right-[6vw] flex justify-between items-center text-[1.1vw] tracking-[0.22em] uppercase text-muted">

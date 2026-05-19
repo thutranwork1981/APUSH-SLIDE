@@ -16,7 +16,7 @@ export default function Conclusion() {
           <div className="mt-[3vh] border-t border-rule pt-[1.8vh] text-[1.35vw] text-text/85 leading-relaxed max-w-[38vw]">The Pentagon's push for unrestricted AI has reshaped the industry. By sidelining Anthropic and partnering with OpenAI, Nvidia, and Alphabet, the military cleared a path past vendor guardrails — opening doors to autonomous warfare and mass surveillance.</div>
         </div>
         <div className="relative border border-rule overflow-hidden bg-bg">
-          <img src={techHumanImg} crossOrigin="anonymous" alt="Hands meeting" className="w-full h-full object-cover" />
+          <img src={techHumanImg} crossOrigin="anonymous" alt="Hands meeting" className="absolute inset-0 w-full h-full object-cover" style={{ objectPosition: "center 30%", transform: "scale(1.28)", transformOrigin: "center 30%" }} />
         </div>
       </div>
       <div className="absolute bottom-[5vh] left-[6vw] right-[6vw] flex justify-between items-center text-[1.1vw] tracking-[0.22em] uppercase text-muted">
