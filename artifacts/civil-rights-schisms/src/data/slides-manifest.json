@@ -1,0 +1,98 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/Prologue.tsx",
+    "title": "Prologue",
+    "description": "On quiet ground, a fracture.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/TheTeam.tsx",
+    "title": "The Team",
+    "description": "Anthropic & OpenAI, with the Pentagon.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/Ultimatum.tsx",
+    "title": "The $200M Ultimatum",
+    "description": "A federal frontier-AI contract, repurposed as a coercion lever.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/HardLimits.tsx",
+    "title": "The Hard Limits",
+    "description": "Anthropic's Public Usage Policy",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/Blacklist.tsx",
+    "title": "The Blacklist",
+    "description": "Supply Chain Risk designation; court paused it.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/Coalition.tsx",
+    "title": "The Defense Coalition",
+    "description": "OpenAI, Nvidia, Alphabet sign on.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000007",
+    "position": 7,
+    "filepath": "src/pages/slides/Sources.tsx",
+    "title": "Sources Analysis",
+    "description": "CNN, NPR, Forbes, NY Times",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000008",
+    "position": 8,
+    "filepath": "src/pages/slides/TheSplit.tsx",
+    "title": "The Split",
+    "description": "Anthropic vs OpenAI: Constraint vs Compliance",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000009",
+    "position": 9,
+    "filepath": "src/pages/slides/Hegseth.tsx",
+    "title": "The Hegseth Doctrine",
+    "description": "Sovereignty, All Lawful Use, Vendor Substitution",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000010",
+    "position": 10,
+    "filepath": "src/pages/slides/CitizenVsGov.tsx",
+    "title": "Citizen vs. Government",
+    "description": "Two frames of the same question.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000011",
+    "position": 11,
+    "filepath": "src/pages/slides/Conclusion.tsx",
+    "title": "Conclusion",
+    "description": "Output Effects & Controversy",
+    "speakerNotes": ""
+  },
+  {
+    "id": "11111111-1111-1111-1111-000000000012",
+    "position": 12,
+    "filepath": "src/pages/slides/Signoff.tsx",
+    "title": "Epilogue",
+    "description": "Thank you. — Team Duckiez",
+    "speakerNotes": ""
+  }
+]
